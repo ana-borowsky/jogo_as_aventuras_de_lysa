@@ -19,6 +19,6 @@ Os comandos para jogar são as teclas
  - "s": golpe
  - "espaço": pulo 
  <p align="center">
-<img width="400" src="imagens_readme/comandos.png">
+<img width="400" src="Imagens_readme/comandos.png">
 </p>
 
