@@ -16,7 +16,7 @@ Para ler o documento do projeto, abra o arquivo "GDD".
 Para jogar, acesse o [Construct 3](https://www.construct.net/en), crie uma conta, lance o aplicativo, importe o projeto "Jogo.c3p" e o execute no botão de play.
 Os comandos para jogar são as teclas 
  - "a" e "d": direcionais
- - "s": golpe
+ - "s": desce plataformas
  - "espaço": pulo 
  <p align="center">
 <img width="450" src="Imagens_readme/comandos.png">
